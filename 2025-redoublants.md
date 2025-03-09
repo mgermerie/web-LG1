@@ -1,4 +1,4 @@
-# TP WEB - LG1 - Créer votre CV en web
+# 2025 - Redoublants - Créer votre CV en web
 
 L'objectif de ce TP est de créer une page web présentant votre CV. Vous trouverez ci-dessous les
 éléments devant figurer sur le site ainsi que la mise en forme souhaitée.
