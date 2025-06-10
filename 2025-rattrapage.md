@@ -1,8 +1,8 @@
 # 2025 - Rattrapage - Créez une page web sur le sujet de votre choix.
 
 L'objectif de ce TP de rattrapage est le même que celui du TP d'origine : créer une page web
-présentant un endroit qui vous tient à cœur. Les consignes de mise en forme de la page web sont
-cependant grandement simplifiées. Vous les trouverez ci-après.
+présentant un endroit qui vous tient à cœur. Les consignes de mise en forme de la page web y sont
+cependant modifiées. Vous les trouverez ci-après.
 
 Le site sera toujours composé de 5 zones : l'entête, le contenu, la galerie photos, la situation
 géographique et le pied de page. Ces 5 zones seront affichées les unes en dessous des autres.
