@@ -16,7 +16,7 @@ Il est demandé de fournir :
 
 **Envoyez un dossier contenant les fichiers de votre site via un partage [_France
 transfert_](https://francetransfert.numerique.gouv.fr/upload) à l'adresse mail
-_madec.germerie-guizouarn@ign.fr_ avant le lundi 23 juin, 09h00.**.
+_madec.germerie-guizouarn@ign.fr_ avant le lundi 23 juin 2025, 09h00.**
 
 ---
 
@@ -38,7 +38,8 @@ La grille virtuelle devra contenir 3 colonnes et 5 lignes, respectant les contra
 
 Schématiquement, votre grille doit ressembler à cela :
 
-**Inclure l'image**
+![grid](https://github.com/user-attachments/assets/384a810e-b8f4-477a-bcbd-e72c316b535b)
+
 
 Par ailleurs, les marges par défaut du `body` devront être mises à `0`.
 
@@ -59,7 +60,6 @@ Ce bloc doit contenir :
 Le titre et les textes étant donc au dessus de l'image de fond, les couleurs sont libres, mais
 faites attention aux contrastes.
 
----
 
 ## Le contenu
 
@@ -79,7 +79,6 @@ conviendra.
 
 Adaptez le style de cette zone à votre convenance (couleur de fond, des textes, espacements, etc).
 
----
 
 ## La galerie photos :
 
@@ -94,7 +93,6 @@ Cette galerie photos doit contenir :
 Attention à bien gérer les tailles des photos et de la grille de manière à ce que le contenu de
 cette partie ne déborde pas de l'espace qui lui est impartit.
 
----
 
 ## La situation géographique :
 
@@ -111,7 +109,6 @@ Pour rappel, vous trouverez à [ce lien](https://leafletjs.com/examples/quick-st
 pour utiliser Leaflet. Attention à bien définir une hauteur pour votre carte si vous voulez la voir
 apparaître sur votre site web.
 
----
 
 ## Le pied de page
 
